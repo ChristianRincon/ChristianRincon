@@ -11,7 +11,7 @@
 <h3 align="left"> Puedes encontrarme en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/christian-rincón-037a90297" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/christian-rincón-037a90297" height="30" width="40" /></a>
-<a href="https://instagram.com/_christian_rincon/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_christian_rincon" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_christian_rincon/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_christian_rincon" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/955871172384399440" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="christianrincon" height="30" width="40" /></a>
 </p>
 
