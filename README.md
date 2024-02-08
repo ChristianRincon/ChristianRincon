@@ -6,8 +6,9 @@
 Tengo experiencia en:
 
 - Creación de servidores con Node.js y Express.js
-- Creación de bases de datos relacionales (Planteo de la estructura: Tablas; Cardinalidades, etc) + manipulación de los datos (Consultas; Inserción; Actualización; Supresión) y automatizaciones (Stored Procedures)
+- Creación de bases de datos relacionales (Planteo de la estructura: Tablas; Cardinalidades, etc) + manipulación de los datos (Consultas; Inserción; Actualización; Supresión) y automatizaciones (Stored Procedures).
 - Creación de aplicaciones de escritorio y web.
+- Análisis de datos (Limpieza de datasets, reordenamiento de datos, gráficos y conclusiones sobre los resultados).
 
 <hr>
 
