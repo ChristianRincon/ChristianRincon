@@ -3,7 +3,7 @@
 
 <br>
 
-Tengo experiencia en:
+<h3 align="left">Tengo experiencia en:</h3>
 
 - Creación de servidores con Node.js y Express.js
 - Creación de bases de datos relacionales (Planteo de la estructura: Tablas; Cardinalidades, etc) + manipulación de los datos (Consultas; Inserción; Actualización; Supresión) y automatizaciones (Stored Procedures).
