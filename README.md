@@ -26,4 +26,4 @@ Tengo experiencia en:
 
 <hr>
 
-- 📫 O puedes escribirme por: [christianrinconalem@gmail.com](mailto:christianrinconalem@gmail.com)
+<h3 align="left">📫 O puedes escribirme por: <a href="mailto:christianrinconalem@gmail.com" target="_blank"> christianrinconalem@gmail.com </a> </h3>
