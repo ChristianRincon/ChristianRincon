@@ -4,7 +4,7 @@
   Me llamo Christian Rincón
 </h2>
 
-<br>
+<br><br>
 
 <h3 align="center"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30px"> 
   Soy Analista Programador en Desarrollo de Aplicaciones 
