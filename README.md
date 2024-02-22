@@ -1,13 +1,11 @@
-<head>
-  <base target="_blank">
-</head>
-
 <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="250px" align="left"> <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="250px" align="right">
 
 <h1 align="center">
   ¡Buenas! 
   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60px"> 
 </h1>
+
+<br>
 
 <h1 align="center">
   Me llamo Christian Rincón
@@ -30,7 +28,7 @@
 - Creación de API Rest.
 - Consumir API.
 - Documentación de API con Swagger.
-- Creación de aplicaciones de escritorio (Java, C#, Python) y web (JavaScript, PHP, Angular).
+- Creación de aplicaciones de escritorio (Java, C#, Python) y web (JavaScript, PHP, Node, Express, Angular).
 
 <hr>
 
@@ -118,8 +116,8 @@
 </p>
 <p align="right">
   <a href="https://discordapp.com/users/955871172384399440" target="_blank" title="Ir a Discord">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="christianrincon" height="120" 
-    width="200" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="christianrincon" height="220" 
+    width="100" />
   </a>
 </p>
 
