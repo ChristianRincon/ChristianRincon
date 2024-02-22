@@ -1,4 +1,8 @@
-<img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="200px" align="left"> <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="200px" align="right">
+<head>
+  <base target="_blank">
+</head>
+
+<img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="250px" align="left"> <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="250px" align="right">
 
 <h1 align="center">
   ¡Buenas! 
@@ -11,9 +15,9 @@
 
 <br><br><br>
 
-<h2 align="center"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30px"> 
+<h2 align="center"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40px"> 
   Soy Analista Programador en Desarrollo de Aplicaciones 
-  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40px">
 </h2>
 
 <br>
@@ -23,7 +27,10 @@
 
 - Creación de servidores con Node.js y Express.js
 - Creación de bases de datos relacionales (Planteo de la estructura: Tablas; Cardinalidades, etc) + manipulación de los datos (Consultas; Inserción; Actualización; Supresión) y automatizaciones (Stored Procedures).
-- Creación de aplicaciones de escritorio y web.
+- Creación de API Rest.
+- Consumir API.
+- Documentación de API con Swagger.
+- Creación de aplicaciones de escritorio (Java, C#, Python) y web (JavaScript, PHP, Angular).
 
 <hr>
 
@@ -119,7 +126,7 @@
 
 <hr>
 
-<h3 align="left">O puedes escribirme en: 
+<h3 align="left">O simplemente puedes escribirme en: 
   <a href="mailto:christianrinconalem@gmail.com" target="_blank"> 
     christianrinconalem@gmail.com 📫 
   </a> 
