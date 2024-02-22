@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="180px" align="left"> <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="180px" align="right">
 
-<h1 align="center">¡Buenas! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60px"> 
+<h2 align="center">¡Buenas! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60px"> 
   Me llamo Christian Rincón
-</h1>
+</h2>
 
 <h3 align="center"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30px"> 
   Soy Analista Programador en Desarrollo de Aplicaciones 
