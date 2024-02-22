@@ -1,9 +1,13 @@
 <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="180px" align="left"> <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="180px" align="right">
 
-<h2 align="center">¡Buenas! 
+<h1 align="center">
+  ¡Buenas! 
   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60px"> 
+</h1>
+
+<h1 align="center">
   Me llamo Christian Rincón
-</h2>
+</h1>
 
 <br><br><br>
 
