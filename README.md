@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="180px" align="left"> <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="180px" align="right">
+<img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="200px" align="left"> <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="200px" align="right">
 
 <h1 align="center">
   ¡Buenas! 
