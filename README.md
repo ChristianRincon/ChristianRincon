@@ -1,15 +1,16 @@
 <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="180px" align="left"> <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="180px" align="right">
 
-<h2 align="center">¡Buenas! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60px"> 
+<h2 align="center">¡Buenas! 
+  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60px"> 
   Me llamo Christian Rincón
 </h2>
 
-<br><br>
+<br><br><br>
 
-<h3 align="center"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30px"> 
+<h2 align="center"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30px"> 
   Soy Analista Programador en Desarrollo de Aplicaciones 
   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30px">
-</h3>
+</h2>
 
 <br>
 <hr>
