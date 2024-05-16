@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="250px" align="left"> <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="250px" align="right">
 
 <h1 align="center">
-  ¡Buenas! 
+  ¡Hola! 
   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60px"> 
 </h1>
 
@@ -23,12 +23,12 @@
 
 <h3 align="left">Tengo experiencia en:</h3>
 
-- Creación de servidores con Node.js y Express.js
-- Creación de bases de datos relacionales (Planteo de la estructura: Tablas; Cardinalidades, etc) + manipulación de los datos (Consultas; Inserción; Actualización; Supresión) y automatizaciones (Stored Procedures).
+- Creación de servidores.
+- Creación de bases de datos relacionales (Planteo de la estructura: Tablas; Cardinalidades, etc) y manipulación de los datos (Consultar; Insertar; Actualizar; Eliminar).
 - Creación de API Rest.
-- Consumir API.
+- Consumir API´s.
 - Documentación de API con Swagger.
-- Creación de aplicaciones de escritorio (Java, C#, Python) y web (JavaScript, PHP, Node, Express, Angular).
+- Creación de aplicaciones de escritorio y web.
 
 <hr>
 
