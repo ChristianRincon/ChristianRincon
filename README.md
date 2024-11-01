@@ -54,10 +54,10 @@
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="90" height="90"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; <br><br><br><br>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="90" height="90"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp; <br><br><br><br>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="90" height="90"/> 
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
