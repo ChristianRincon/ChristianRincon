@@ -4,14 +4,14 @@
 
   <h1 align="center">
     ¡Hola! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60px"> <br><br><br>
-    Soy Christian Rincón
+    Soy <a href="https://www.linkedin.com/in/christian-math%C3%ADas-rinc%C3%B3n-037a90297/" target="_blank" title="Visitar LinkedIn de Christian Rincón">Christian Rincón</a>
   </h1>
 </div>
 
 <br><br> 
 
 <h2 align="center"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40px"> 
-  Analista Programador en Desarrollo de Aplicaciones 
+  "Analista Programador en Desarrollo de Aplicaciones" 
   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40px">
 </h2>
 
@@ -21,8 +21,8 @@
 <h3 align="left">Tengo experiencia en:</h3>
 
 - Desarrollo de aplicaciones web y de escritorio.
-- Creación y manipulación de bases de datos.
-- Creación de servidores.
+- Bases de datos.
+- Servidores.
 - Creación y documentación de API.<br><br>
 
 <hr>
@@ -95,20 +95,16 @@
 
 <hr><br>
 
-<h3 align="center"> Puedes contactarme en mis redes pulsando en alguno de los siguientes íconos</h3><br>
+<h3 align="center"> Puedes contactarme en <a href="https://www.linkedin.com/in/christian-math%C3%ADas-rinc%C3%B3n-037a90297/"> LinkedIn</a> pulsando en el siguiente ícono</h3><br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/christian-rincón-037a90297" align="left" target="_blank" title="Visitar Linkedin de Christian Rincón">
+  <a href="https://www.linkedin.com/in/christian-math%C3%ADas-rinc%C3%B3n-037a90297/" target="_blank" title="Visitar LinkedIn de Christian Rincón">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"         
-     alt="www.linkedin.com/in/christian-rincón-037a90297" height="70" width="70" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  
-  <a href="https://www.instagram.com/_christian_rincon/" align="right" target="_blank" title="Visitar Instagram de Christian Rincón">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_christian_rincon"   
-    height="70" width="70" />
+     alt="LinkedIn Logo" height="70" width="70" />
   </a>
-</p><br><br>
+</p>
+
+<br><br>
 
 <h3 align="center">O simplemente escribirme en: 
   <a href="mailto:christianrinconalem@gmail.com" title="Escribir mail a Christian Rincón" target="_blank"> 
