@@ -1,34 +1,27 @@
-<div>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9kb2h6MTA5d3ljeTUyZWt4ZmVveTI4cDh1Njh5cm04aHU3NW91dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.webp" height="170px" width="270px" align="left"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9kb2h6MTA5d3ljeTUyZWt4ZmVveTI4cDh1Njh5cm04aHU3NW91dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.webp" height="170px" width="270px" align="right"><br><br>
+![MasterHead](https://ravel.com.br/blog/wp-content/uploads/2023/04/IA-no-Cotidiano-Banner.jpg)
 
-  <h1 align="center">
-    ¡Hola! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60px"> <br><br><br>
-    Soy <a href="https://www.linkedin.com/in/christian-math%C3%ADas-rinc%C3%B3n-037a90297/" target="_blank" title="Visitar LinkedIn de Christian Rincón">Christian Rincón</a>
-  </h1>
-</div>
-
-<br><br> 
-
-<h2 align="center"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40px"> 
-  "Analista Programador en Desarrollo de Aplicaciones" 
-  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40px">
+<h2>
+    ¡Hola! Soy 
+    <a href="https://www.linkedin.com/in/christian-math%C3%ADas-rinc%C3%B3n-037a90297/" target="_blank" title="Visitar LinkedIn de Christian Rincón">
+      Christian Rincón
+    </a>
+    <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60px">
 </h2>
 
-<br>
+ 
+    "Analista Programador en Desarrollo de Aplicaciones"
 
 
-<h3 align="left">Tengo experiencia en:</h3>
+<hr>
+<h3 align="left"><b>Con experiencia en:</b></h3>
 
 - Desarrollo de aplicaciones web y de escritorio.
 - Bases de datos.
 - Servidores.
-- Creación y documentación de API.<br><br>
-
 <hr>
 
 <h3 align="left">
-  Estas son algunas tecnologías con las que he tratado:
+  <b>Conocimientos técnicos:</b>
 </h3>
 
 <br>
@@ -91,23 +84,23 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="90" height="90"/> 
   </a> 
-</p><br><br>
-
-<hr><br>
-
-<h3 align="center"> Puedes contactarme en <a href="https://www.linkedin.com/in/christian-math%C3%ADas-rinc%C3%B3n-037a90297/"> LinkedIn</a> pulsando en el siguiente ícono</h3><br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/christian-math%C3%ADas-rinc%C3%B3n-037a90297/" target="_blank" title="Visitar LinkedIn de Christian Rincón">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"         
-     alt="LinkedIn Logo" height="70" width="70" />
-  </a>
 </p>
+
+<hr>
+<br>
+
+<h3 align="center"> <b>Si deseas contactarme, pulsa en alguno de los siguientes íconos:</b></h3>
 
 <br><br>
 
-<h3 align="center">O simplemente escribirme en: 
-  <a href="mailto:christianrinconalem@gmail.com" title="Escribir mail a Christian Rincón" target="_blank"> 
-    christianrinconalem@gmail.com 
-  </a> 
-</h3>
+ <div align="center">
+      <a href="mailto:christianrinconalem@gmail.com" title="Escribir mail a Christian Rincón" target="_blank"> 
+      <img width="80" height="80" alt="Gmail Icon" src="https://github.com/user-attachments/assets/ae5bcea5-0d16-474b-bbd5-6bd5b3e7c286" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/christian-math%C3%ADas-rinc%C3%B3n-037a90297/" target="_blank" title="Visitar LinkedIn de Christian Rincón">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Icon" height="80" width="80" />
+    </a>
+ </div>
+
+
