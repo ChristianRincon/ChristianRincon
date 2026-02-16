@@ -53,13 +53,13 @@
 <br><br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christian-math%C3%ADas-rinc%C3%B3n-037a90297/" target="_blank" title="Click to View LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/christian-math%C3%ADas-rinc%C3%B3n-037a90297/" title="Click to View LinkedIn Profile">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 <br>
 <p align="center">
-  <a href="mailto:christianrinconalem@gmail.com" target="_blank" title="Click to send an email">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=christianrinconalem@gmail.com" title="Click to send an email">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
