@@ -2,7 +2,7 @@
 
 <h2>
     Hi, I'm 
-    <a href="https://www.linkedin.com/in/christian-math%C3%ADas-rinc%C3%B3n-037a90297/" target="_blank" title="Click to View LinkedIn Profile">
+    <a href="https://www.linkedin.com/in/ch-rincon" target="_blank" title="Click to View LinkedIn Profile">
       Christian Rincón
     </a>
     <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60px">
@@ -10,15 +10,17 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Automation+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Automation+Enthusiast)](https://git.io/typing-svg)
 
 <br>
 
 <h3 align="left"><b>Core Expertise</b></h3>
 
 - Web & Desktop Application Development
-- Database Design & Management
+- Database Design
 - Server-side Architecture
+- Process Automator
+- I've also been enjoying documenting my code and processes with sufficiently comprehensive READMEs (I've been improving my Markdown skills too).
 <br>
 
 <h3 align="left">
@@ -53,7 +55,7 @@
 <br><br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christian-math%C3%ADas-rinc%C3%B3n-037a90297/" title="Click to View LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/ch-rincon" title="Click to View LinkedIn Profile">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
