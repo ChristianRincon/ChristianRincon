@@ -20,8 +20,7 @@
 - Database Design
 - Server-side Architecture
 - Process Automator
-- I've also been enjoying documenting my code and processes with sufficiently comprehensive READMEs (I've been improving my Markdown skills too).
-> [Example or my READMES](https://github.com/ChristianRincon/auto-organize)
+
 <br>
 
 <h3 align="left">
