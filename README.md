@@ -41,9 +41,9 @@
 
 <h3> <b>About me</b> </h3>
 
-> I enjoy building automation tools and web applications.
+> `> I enjoy building automation tools and web applications.`
 
-> Constantly improving my understanding of clean architecture and scalable system design.
+> `> Constantly improving my understanding of clean architecture and scalable system design.`
 
 <br>
 <br>
